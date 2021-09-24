@@ -1,7 +1,7 @@
 <h1>INDEX OF THIS FOLDER</h1>
 <br><br>
--- OTHERS <br>
+-- (GOLF) Stableford berekenen v1.XLSX (NL/DUTCH) <br>
    | <br>
-    -- (GOLF) Stableford berekenen v1.XLSX (NL/DUTCH) <br>
+    -- !COMING SOON! <br>
    | <br>
     -- !COMING SOON! <br>
