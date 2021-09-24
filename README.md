@@ -1,2 +1,2 @@
 # Useful-Tools
-Useful Tools for everyone
+This repository contains some useful open-source/non-copyrighted tools.
